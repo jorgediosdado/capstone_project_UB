@@ -1,0 +1,5 @@
+{
+    "codegpt.model": "text-davinci-003",
+    "codegpt.apiKey": "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",
+    "codegpt.pasteOnClick": true
+}
