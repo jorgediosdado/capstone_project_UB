@@ -11,3 +11,5 @@ test_set_private/
 
 mlruns/
 old_models/
+
+private_dataset_new_sin_procesar
