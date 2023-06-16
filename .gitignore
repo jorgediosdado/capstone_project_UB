@@ -3,6 +3,7 @@ public_dataset/
 private_dataset/
 
 private_dataset_new/
+dataset_global_private/
 private_dataset_new_subclasses/
 
 test_set_public/
