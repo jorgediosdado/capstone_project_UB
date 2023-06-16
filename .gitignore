@@ -2,6 +2,9 @@ combined_dataset/
 public_dataset/
 private_dataset/
 
+private_dataset_new/
+private_dataset_new_subclasses/
+
 test_set_public/
 test_set_private/
 
