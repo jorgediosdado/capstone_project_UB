@@ -1,19 +1,17 @@
 mlruns/
 old_models/
-explainability/
+modelos/
 
-modelo_entrenado.h5
+to_explain_images/
+LIME_explained_images/
+GRADCAM_explained_images/
+
+private_combined/
+private_combined_test_set/
 
 public_dataset/
-private_dataset_renamed/
-
 test_set_public/
-test_set_private/
 
-new_private_dataset_prefinal/
-
-LIME_explained_images/
-GRADCAM_explainability
-
+new_private_dataset/
 
 *.rar
